@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MyExperienceWithZooAnimals</string>
+    <string name="appTitle">My Experience With Zoo Animals</string>
+    <string name="btn1">Show 5 Stars Experience</string>
+    <string name="btn2">Insert New Experience</string>
+
+    <string name="animalNameTxt">Name of Animal:</string>
+    <string name="hint_animalName">Enter Name of Animal here</string>
+    <string name="animalExperienceTxt">My Experience:</string>
+    <string name="hint_animalExperience">Enter your Experience here</string>
+    <string name="location">Location</string>
+    <string name="hint_location">Enter Location Address here</string>
+    <string name="stars">Stars</string>
+
+    <string name="btnShowList">Show List</string>
+    <string name="btnInsert">Insert</string>
+
+    <string name="addNew">Add New Records</string>
+
+    <string name="id">Animal Experience ID</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="editAni">Edit Existing Records</string>
+
+</resources>
